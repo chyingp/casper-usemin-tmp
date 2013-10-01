@@ -1,6 +1,6 @@
 {
   "name": "casper-usemin-tmp",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "因为usemin在grunt-requirejs config那里的实现似乎有bug，对usemin进行了修改，核心代码全都是usemin的！后面再给usemin作者pull下request",
   "keywords": [
     "gruntplugin",
